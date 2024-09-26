@@ -20,20 +20,36 @@
         <label for="info">Jā</label>
         <input type="radio" name="info" id="info">
         <label for="info">Nē</label>
-
+        <button type="submit">iesniegts</button>
     </form>
-    <br>
-    <button type="submit">iesniegts</button>
-    <br>
-    <br>
-    <input type="button" value="blogs">
+    
+    <h3>Jau Reģistrējušies</h3>
+    <?php
+    $registrejusies = [
+        Vards => 'Jānis Bērziņš', 
+        E-pasts => 'janis@berzins.com ',
+        Līmenis => ' Intermediate'];
 
+
+
+
+    ?>
+
+
+
+    <br>
+    <br>
+    
+    <div>
+    <a href="blog.php">Blogs</a>
+    </div>
+    
+    
+    <script src="app.js"></script>
+    
+    
+    
  
-    
-
-    
-
-
 
 
 </body>

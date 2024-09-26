@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tiešsaistes dienasgrāmata</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div>
@@ -18,8 +19,7 @@
         <li>Lorem, ipsum dolor.</li>
     </ol>
     </div>
-    <button type="button">Blogs</button>
-    <input type="button" value="Blogs">
+ 
     
 </body>
 </html>

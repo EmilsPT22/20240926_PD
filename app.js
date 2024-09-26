@@ -1,0 +1,2 @@
+name = Emīls;
+return name
